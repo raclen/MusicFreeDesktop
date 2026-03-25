@@ -1,7 +1,7 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.1",
   "changeLog": [
-    "1. 【修复】修复了一些可能导致白屏的问题"
+    "优化下载功能，支持配置下载名称，部分源，增加专辑封面和歌词"
   ],
   "download": [
     "https://r0rvr854dd1.feishu.cn/drive/folder/IrVEfD67KlWZGkdqwjecLHFNnBb?from=from_copylink"
